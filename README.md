@@ -12,8 +12,6 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-blueviolet)
-![Git](https://img.shields.io/badge/Git-F05032-red)
-![GitHub](https://img.shields.io/badge/GitHub-181717-black)
 
 ---
 
