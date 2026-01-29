@@ -19,7 +19,6 @@
 
 ## 📂 Projets
 
-- *(Projets à venir !)* 🚀  
 - Je commence avec des projets simples en **HTML, CSS et Python**
 - Petit programmes Python pour m améliorer en algorithmique 
 - Chaque nouveau projet sera ajouté ici
@@ -29,7 +28,7 @@
 ## 📫 Contact
 
 - [GitHub](https://github.com/Nath-dev07)  
-- Email : *(afanounathanael7@gmail.com)*
+- Email : *afanounathanael7@gmail.com*
 
 ---
 
